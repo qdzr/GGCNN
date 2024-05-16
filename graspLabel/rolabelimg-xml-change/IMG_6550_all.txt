@@ -1,0 +1,4 @@
+/Users/haoyou/Codes/labelImg/demo/demo.png	241	52	383	107
+/Users/haoyou/Codes/labelImg/demo/demo.png	69	63	214	93
+/Users/haoyou/Codes/labelImg/demo/demo.png	157.0	170.0	3.039229	166.0	56.0
+/Users/haoyou/Codes/labelImg/demo/demo.png	252.5622	174.811	2.434159	125.0	37.0
